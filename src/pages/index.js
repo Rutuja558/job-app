@@ -1,0 +1,7 @@
+export { default as Home } from './Home'
+export { default as PersonalInfoForm } from './PersonalInfoForm'
+export { default as EducationForm } from './EducationForm'
+export { default as WorkExperienceForm } from './WorkExperienceForm'
+export { default as SkillsForm } from './SkillsForm'
+export { default as AdditionalnfoForm } from './AdditionalnfoForm'
+export { default as ReviewForm } from './ReviewForm'
